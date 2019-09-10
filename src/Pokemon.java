@@ -7,6 +7,7 @@ public class Pokemon {
 		System.out.println("z(_(\") (\")");
 
 		
+	
 	}
 
 }
